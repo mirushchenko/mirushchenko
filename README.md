@@ -5,6 +5,8 @@ I bridge the gap between business needs and technical implementation, leveraging
 ### Technical Toolkit
 
 #### Development & Databases
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -22,21 +24,6 @@ I bridge the gap between business needs and technical implementation, leveraging
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### Featured Projects
-
-#### [System Analysis Portfolio](https://github.com/mirushchenko/project)
-Requirements documentation, process modeling, and analysis artifacts
-
-#### [Chat Application Analysis](https://github.com/mirushchenko/webapp-chat/tree/main/system-analysis)  
-Real-time messaging system with sequence diagrams and API specs
-
-#### [Analysis Templates](https://github.com/mirushchenko/system-analysis-toolkit)
-Professional templates for requirements and documentation
-
-### Connect
-- **Location**: Moscow, Russia
-- **Status**: Open to new opportunities
 
 ---
 *Bridging business needs with technical solutions*
